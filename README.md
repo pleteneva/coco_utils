@@ -1,1 +1,1 @@
-# coco_helper_functions
+# This repo contains COCO supported utils
